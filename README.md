@@ -1,4 +1,4 @@
-# agriculturemanagement
+# Agriculture Management
 - Creation of data base that is useful in agriculture field using MySQL , Command Line Interface in python3 for operations
 
 - Phase1 - Documentation of Data requirements for data base design ,Functional requirements for data base operations
